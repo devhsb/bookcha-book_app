@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookCha</string>
+    <string name="search_icon">Search icon</string>
+    <string name="bookcha_title">bookcha title</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="back_button">back button</string>
+</resources>
